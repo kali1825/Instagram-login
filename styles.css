@@ -1,0 +1,24 @@
+.language{
+    margin: 40px auto;
+    padding-bottom: 70px;
+    width: 873px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    flex-wrap: wrap;
+    color: #8e8e8e;
+    font-size: 12px;
+}
+
+.language select{
+    border: none;
+    color: #8e8e8e;
+    outline: none;
+    cursor: pointer;
+}
+
+.language span{
+    cursor: pointer;
+}
